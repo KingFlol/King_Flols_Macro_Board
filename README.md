@@ -18,4 +18,6 @@ I am planing to use these components:
 1x XIAO RP2040
 1x Case made of 3 parts
 
+This is my first time designing something like that myself. 
+I hope I did not mess up badly and if so pls give me some advice :]
 
